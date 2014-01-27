@@ -1,7 +1,7 @@
 Heroku buildpack: CasperJS
 =======================
 
-This is an example [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks).
+This is based on the example [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks).
 
 Usage
 -----
